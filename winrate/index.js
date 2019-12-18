@@ -24,7 +24,9 @@ const NAMES = {
     rob: 65859563,
     mj: 84216667,
     chris: 61387321,
-    will: 23034529
+    will: 23034529,
+	timby: 32399328,
+	giacobe: 57267636
 }
 
 const playerID = NAMES[process.argv[2]] || process.argv[2]
